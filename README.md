@@ -1,10 +1,8 @@
 ### Hi this is Subash Shakya
 
 ## I am a student
-* 🤓 I'm studying Computer Engineering
-* ⚡ I'm learning to code
-* 🎨 I like painting
-* 🏀 I love playing basketball
+* 🤓 Currently studying Computer Engineering
+* ⚡ Learning to code
 
 ### Connect with me:
 [<img align="left" alt="subashshakya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_subashcha/)
